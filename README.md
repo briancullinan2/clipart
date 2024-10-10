@@ -21,6 +21,21 @@ sometimes it didn't apply at all:
 ![ermine](./animals%20cubism/00378-3463598972.png?raw=true)
 ![ermine](./animals%20cubism%202/00384-471156219.png?raw=true)
 
+Combining multiple art styles, i.e. retro 80s style <buildings>, cyberpunk style <animals>. I ended up with at least 5 out of 50 images that didn't include the animal in the first pass missing the word style. Only half the animals were coming out cyberpunk style, not like the  `animals cyberpunk` folder. It doesn't appear to matter if I make a prompt with parenthesis like `retro 80s buildings , ( cyberpunk animals )`. The images came out inheriting the 80s style on the animals, so I made the animals the subject like `(Cyberpunk style animal kitten:2.0), (Retro 80s style Hagia Sophia Istanbul Turkey:0.9)` or `(Cyberpunk style:2.0) ( animal kitten:1.1) , (Retro 80s style:2.0) (Hagia Sophia Istanbul Turkey:0.9)`. With the expectations that the cyberpunk looking animals would inherit cyberpunk looking buildings with retro 80s style tones, and the non-cyberpunk animals would still look retro 80s style with cartoonish buildings. It appears the weighting of the effects of each part of the picture can be tuned, but I am not sure what the :## designation means in terms of Juggernaut.
+
+
+
+missing the word style, added the word style, added parenthesis qualifier, added object weights?
+
+![tajmajal](./retro%2080s%20buildings%20cyberpunk%20animals/00713-1391586435.png?raw=true)
+![tajmajal](./retro%2080s%20style%20buildings%20cyberpunk%20style%20animals/00713-418230600.png?raw=true)
+![tajmajal](./retro%2080s%20buildings%20,%20(%20cyberpunk%20animals%20)/00713-3518743264.png?raw=true)
+![tajmajal](./cyberpunk%20animals,%20retro%2080s%20style%20(%20buildings%20)/00793-292965761.png?raw=true)
+![tajmajal](./cyberpunk%20animals,%20retro%2080s%20style%20(%20wide%20angle%20buildings%20)%202/00002-1498688634.png?raw=true)
+
+
+
+
 
 Brainstorming more combo prompts:
 
