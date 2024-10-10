@@ -30,6 +30,8 @@ Brainstorming more combo prompts:
 * playing cards royalty - michael
 * colorful burning carcassas - image in my head to scare hipster aliens away
 * animals covered in diamonds, make really cool geometric backgrounds and combine with an art style from previous generation
-
+* feet in different positions with different colors - colleen
+* artwork of things, places, animals in a very specific color scheme like for a hotel chain
+* 
 
 
