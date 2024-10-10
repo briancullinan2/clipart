@@ -24,12 +24,12 @@ sometimes it didn't apply at all:
 
 Brainstorming more combo prompts:
 
-lots of sheep doing interesting things, something like sheep tarot
-famous and iconic buildings
-famous and iconic places
-playing cards royalty - michael
-colorful burning carcassas - image in my head to scare hipster aliens away
-animals covered in diamonds, make really cool geometric backgrounds and combine with an art style from previous generation
+* lots of sheep doing interesting things, something like sheep tarot
+* famous and iconic buildings
+* famous and iconic places
+* playing cards royalty - michael
+* colorful burning carcassas - image in my head to scare hipster aliens away
+* animals covered in diamonds, make really cool geometric backgrounds and combine with an art style from previous generation
 
 
 
