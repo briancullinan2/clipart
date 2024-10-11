@@ -3,7 +3,17 @@ Prompts I've used so far:
 
 https://docs.google.com/spreadsheets/d/19lHurXLcmpfyWlmmJJWhRMqSAyIh9yfjrQUbnP7MG20/edit?gid=1799525290#gid=1799525290
 
-Caveats:
+# Table of Contents
+
+- [animals](#animals)
+- [buildings](#buildings)
+- [combos](#combos)
+
+
+
+# Caveats
+
+## animals
 
 interesting, adding a comma between art style like "Impressionism style , animal mustang" produces images where the art style was confined to the inside parts of the animal.
 
@@ -20,6 +30,9 @@ sometimes it didn't apply at all:
 
 ![ermine](./animals%20cubism/00378-3463598972.png?raw=true)
 ![ermine](./animals%20cubism%202/00384-471156219.png?raw=true)
+
+
+## buildings
 
 Combining multiple art styles, i.e. retro 80s style <buildings>, cyberpunk style <animals>. I ended up with at least 5 out of 50 images that didn't include the animal in the first pass missing the word style. Only half the animals were coming out cyberpunk style, not like the  `animals cyberpunk` folder. It doesn't appear to matter if I make a prompt with parenthesis like `retro 80s buildings , ( cyberpunk animals )`. The images came out inheriting the 80s style on the animals, so I made the animals the subject like `(Cyberpunk style animal kitten:2.0), (Retro 80s style Hagia Sophia Istanbul Turkey:0.9)` or `(Cyberpunk style:2.0) ( animal kitten:1.1) , (Retro 80s style:2.0) (Hagia Sophia Istanbul Turkey:0.9)`. With the expectations that the cyberpunk looking animals would inherit cyberpunk looking buildings with retro 80s style tones, and the non-cyberpunk animals would still look retro 80s style with cartoonish buildings. It appears the weighting of the effects of each part of the picture can be tuned, but I am not sure what the :## designation means in terms of Juggernaut.
 
@@ -50,6 +63,40 @@ For buildings I added a painting qualifier to see if the style would vary more d
 ![flwright](./buildings%20brutalism/00339-747540897.png?raw=true)
 
 
+## combos
+
+cyberpunk animals in front of wide angle buildings
+
+![animals](./(%20cyberpunk%20animals%20),%20(%20retro%2080s%20style%20)%20wide%20angle%20buildings/00238-2708081374.png?raw=true)
+![animals](./(%20cyberpunk%20animals%20),%20(%20retro%2080s%20style%20)%20wide%20angle%20buildings/00254-1534105448.png?raw=true)
+![animals](./(%20cyberpunk%20animals%20),%20(%20retro%2080s%20style%20)%20wide%20angle%20buildings/00256-2937630081.png?raw=true)
+
+anime mange buildings in steampunk places, combining buildings in the wrong place
+
+![buildings](./buildings%20anime%20manga%20wide%20angle,%20steampunk%20places%20/00985-3444897962.png?raw=true)
+![buildings](./buildings%20anime%20manga%20wide%20angle,%20steampunk%20places%20/00779-545135991.png?raw=true)
+![buildings](./buildings%20anime%20manga%20wide%20angle,%20steampunk%20places%20/00760-4245433689.png?raw=true)
+![buildings](./buildings%20anime%20manga%20wide%20angle,%20steampunk%20places%20/00759-3461537253.png?raw=true)
+
+
+bauhaus animals with pastel colors like The Scott
+
+
+
+7 wonders of the world in pastel cubism
+
+![wonders](./7%20wonders%20pastel%20cubism/02273-1649320479.png?raw=true)
+![wonders](./7%20wonders%20pastel%20cubism/02274-548448611.png?raw=true)
+![wonders](./7%20wonders%20pastel%20cubism/02275-515497819.png?raw=true)
+
+
+7 wonders of the world in various
+
+![wonders](./7%20wonders%20pastel%20bauhaus/02315-445044836.png?raw=true)
+![wonders](./7%20wonders%20diamonds%20neoexpressionism/02294-897877749.png?raw=true)
+![wonders](./7%20wonders%20rainbow%20de%20stijl%20neoexpressionism/02273-3002809686.png?raw=true)
+
+
 Brainstorming more combo prompts:
 
 * lots of sheep doing interesting things, something like sheep tarot
@@ -60,6 +107,7 @@ Brainstorming more combo prompts:
 * animals covered in diamonds, make really cool geometric backgrounds and combine with an art style from previous generation
 * feet in different positions with different colors - colleen
 * artwork of things, places, animals in a very specific color scheme like for a hotel chain
+* 7 wonders of the world in pastel
 * 
 
 
