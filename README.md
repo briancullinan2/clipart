@@ -42,7 +42,12 @@ For buildings I added a painting qualifier to see if the style would vary more d
 ![lotus](./buildings%20cyberpunk/00169-1484277224.png?raw=true)
 ![sydney](./buildings%20rococo/00137-1080916164.png?raw=true)
 ![sydney](./buildings%20steampunk/00237-1202795471.png?raw=true)
-
+![sydney](./buildings%20cyberpunk/00187-391395010.png?raw=true)
+![sydney](./buildings%20vaporwave/00487-921386162.png?raw=true)
+![flwright](./buildings%20retro%2080s/00539-3437861514.png?raw=true)
+![flwright](./buildings%20anime%20manga/00439-2936171495.png?raw=true)
+![flwright](./buildings%20fauvism/00389-4100665740.png?raw=true)
+![flwright](./buildings%20brutalism/00339-747540897.png?raw=true)
 
 
 Brainstorming more combo prompts:
