@@ -34,6 +34,14 @@ missing the word style, added the word style, added parenthesis qualifier, added
 ![tajmajal](./cyberpunk%20animals,%20retro%2080s%20style%20(%20wide%20angle%20buildings%20)%202/00002-1498688634.png?raw=true)
 
 
+For buildings I added a painting qualifier to see if the style would vary more dramatically, I also only selected 12 more interesting art styles. It seems to use the context of art style, or context of imagary for art style. It's about 50/50 if the image shows up correctly for styles like Baroque and Rococo or if the image is just plainly painted looking with no additional style.
+
+![lotus](./buildings%20baroque%20wide%20angle/00019-2545539953.png?raw=true)
+![lotus](./buildings%20gothic%20painting/00019-707715943.png?raw=true)
+![lotus](./buildings%20cubism/00069-1183425810.png?raw=true)
+![lotus](./buildings%20cyberpunk/00169-1484277224.png?raw=true)
+![sydney](./buildings%20rococo/00137-1080916164.png?raw=true)
+![sydney](./buildings%20steampunk/00237-1202795471.png?raw=true)
 
 
 
