@@ -109,7 +109,7 @@ Trying to figure out how to make it look like they are doing something like play
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02355-405391313.png?raw=true)
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02356-1990394421.png?raw=true)
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02446-3716087889.png?raw=true)
-![sheep](./sheep%20art%20deco%20buildings/00023-1311895683.png?raw=true)
+![sheep](./sheep%20art%20deco%20mixed/00023-1311895683.png?raw=true)
 
 
 ## hamsters
