@@ -9,6 +9,7 @@ https://docs.google.com/spreadsheets/d/19lHurXLcmpfyWlmmJJWhRMqSAyIh9yfjrQUbnP7M
 - [buildings](#buildings)
 - [combos](#combos)
 - [sheep](#sheep)
+- [brainstorming](#brainstorming-prompts)
 
 
 
@@ -107,12 +108,11 @@ Trying to figure out how to make it look like they are doing something like play
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02355-405391313.png?raw=true)
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02356-1990394421.png?raw=true)
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02446-3716087889.png?raw=true)
+![sheep](./sheep%20art%20deco%20buildings/00023-1311895683.png?raw=true)
 
 
 
-
-
-Brainstorming more combo prompts:
+## brainstorming prompts
 
 * DONE: lots of sheep doing interesting things, something like sheep tarot
 * DONE: famous and iconic buildings
@@ -121,7 +121,7 @@ Brainstorming more combo prompts:
 * colorful burning carcassas - image in my head to scare hipster aliens away
 * animals covered in diamonds, make really cool geometric backgrounds and combine with an art style from previous generation
 * feet in different positions with different colors - colleen
-* artwork of things, places, animals in a very specific color scheme like for a hotel chain
+* DONE: artwork of things, places, animals in a very specific color scheme like for a hotel chain
 * DONE: 7 wonders of the world in pastel - Iga
 * 
 
