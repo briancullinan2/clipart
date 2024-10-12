@@ -9,6 +9,7 @@ https://docs.google.com/spreadsheets/d/19lHurXLcmpfyWlmmJJWhRMqSAyIh9yfjrQUbnP7M
 - [buildings](#buildings)
 - [combos](#combos)
 - [sheep](#sheep)
+- [hamsters](#hamsters)
 - [brainstorming](#brainstorming-prompts)
 
 
@@ -109,6 +110,16 @@ Trying to figure out how to make it look like they are doing something like play
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02356-1990394421.png?raw=true)
 ![sheep](./sheep%20art%20deco%20jobs%20and%20movies/02446-3716087889.png?raw=true)
 ![sheep](./sheep%20art%20deco%20buildings/00023-1311895683.png?raw=true)
+
+
+## hamsters
+
+Hamsters in suits, starting to look more reliable. Realism and realilistic seems to produce consistently. A small portion of hamsters don't include a shot of his suit.
+
+![hamster](./hamster%20wearing%20a%20suit%20in%20front%20of%20places/00077-1759390408.png?raw=true)
+![hamster](./hamster%20wearing%20a%20suit%20in%20front%20of%20places/00159-795454091.png?raw=true)
+![hamster](./hamster%20wearing%20a%20suit%20in%20front%20of%20places/00111-1921715926.png?raw=true)
+
 
 
 
